@@ -1,1 +1,30 @@
-theme: jekyll-theme-cayman
+title: quminghaonan
+
+name: quminghaonan's homepage
+description: Jinlin University 14-18
+url: http://yongyuan.name
+
+# 自定义post url
+permalink: /blog/:title.html
+timezone: Asia/Hunan
+
+# Overriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
+safe: true
+lsi: false
+
+markdown: kramdown
+kramdown:
+    input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+    extensions:
+    - autolink
+    - footnotes
+    - smart
+hard_wrap: false
+#  use_coderay: true
+syntax_highlighter: rouge
+#  coderay:
+#  coderay_line_numbers:  nil
+
+# White-listed plugins
+gems:
+  - jekyll-sitemap
