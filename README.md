@@ -4,7 +4,7 @@
 
 ### 主题预览
 
-[YongYuan's Homepage](http://yongyuan.name/)。
+lucy's Homepage](https://qumingzhentmnan.github.io/)。
 
 ### 已完成功能
 
