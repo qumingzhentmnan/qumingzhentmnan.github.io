@@ -2,7 +2,7 @@
 layout: post
 title: life：first homepage
 categories: [随笔]
-tags: 随想
+tags: 日记
 ---
 
 > 看看这个是什么格式
