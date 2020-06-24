@@ -1,8 +1,9 @@
 ---
 layout: post
 title: life：He 的prelu 和intial方法的paper阅后感想
-categories: [随笔]
-tags: 日记，感想
+categories: [日记]
+tags: 日记
+tags: 感想
 ---
 
 > 大神就是大神

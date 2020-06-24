@@ -1,7 +1,7 @@
 ---
 layout: post
 title: life：first homepage
-categories: [随笔]
+categories: [日记]
 tags: 日记
 ---
 
